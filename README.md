@@ -1,1 +1,1 @@
-# Theory-Of-Computation
+This Repository provides programs related to Theory of computation.
